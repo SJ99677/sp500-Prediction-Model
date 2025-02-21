@@ -1,7 +1,7 @@
 # S&P 500 Market Prediction Model
 
 ## Overview
-This project implements a machine learning model to predict S&P 500 market movements using historical data. The model uses Random Forest classification to predict whether the market will rise or fall on the next trading day.
+This project implements a machine learning model to predict S&P 500 market movements using historical data. The model uses Random Forest classification to predict whether the market will rise or fall on the next trading day. The tools and technologies used are Python and JupyterLab along with the requirements listed below.
 
 ## Features
 - Historical S&P 500 data analysis from 1927 to 2025
